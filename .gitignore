@@ -48,3 +48,5 @@ linux
 macos
 windows
 .czrc
+lib/variables.dart
+.vscode
